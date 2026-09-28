@@ -17,7 +17,7 @@ Telegram-бот-напоминалка на `aiogram 3`. Понимает сво
 ## Установка
 
 ```bash
-git clone 
+git clone git@github.com:bust6k/reminderbot.git
 cd reminder-bot
 python -m venv .venv
 source .venv/bin/activate     # Linux/macOS
