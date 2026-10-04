@@ -7,6 +7,7 @@ class Settings(BaseSettings):
     bot_token: str
     db_path: str = "./reminders.db"
     default_tz: str = "Europe/Moscow"
+    img_src : str
 
 
 settings = Settings()
